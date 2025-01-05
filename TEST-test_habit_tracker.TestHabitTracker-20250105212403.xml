@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_habit_tracker.TestHabitTracker-20250105212403" tests="9" file="test_habit_tracker.py" time="0.033" timestamp="2025-01-05T21:24:03" failures="0" errors="0" skipped="0">
+	<testcase classname="test_habit_tracker.TestHabitTracker" name="test_add_existing_habit" time="0.000" timestamp="2025-01-05T21:24:03" file="test_habit_tracker.py" line="26">
+		<!--Test adding a habit that already exists.-->
+	</testcase>
+	<testcase classname="test_habit_tracker.TestHabitTracker" name="test_add_habit" time="0.011" timestamp="2025-01-05T21:24:03" file="test_habit_tracker.py" line="18">
+		<!--Test adding a new habit.-->
+	</testcase>
+	<testcase classname="test_habit_tracker.TestHabitTracker" name="test_mark_completed" time="0.000" timestamp="2025-01-05T21:24:03" file="test_habit_tracker.py" line="32">
+		<!--Test marking a habit as completed.-->
+	</testcase>
+	<testcase classname="test_habit_tracker.TestHabitTracker" name="test_mark_completed_nonexistent_habit" time="0.005" timestamp="2025-01-05T21:24:03" file="test_habit_tracker.py" line="38">
+		<!--Test marking a nonexistent habit as completed.-->
+	</testcase>
+	<testcase classname="test_habit_tracker.TestHabitTracker" name="test_remove_habit" time="0.000" timestamp="2025-01-05T21:24:03" file="test_habit_tracker.py" line="55">
+		<!--Test removing a habit.-->
+	</testcase>
+	<testcase classname="test_habit_tracker.TestHabitTracker" name="test_remove_nonexistent_habit" time="0.000" timestamp="2025-01-05T21:24:03" file="test_habit_tracker.py" line="61">
+		<!--Test removing a nonexistent habit.-->
+	</testcase>
+	<testcase classname="test_habit_tracker.TestHabitTracker" name="test_reset_progress" time="0.013" timestamp="2025-01-05T21:24:03" file="test_habit_tracker.py" line="66">
+		<!--Test resetting progress for all habits.-->
+	</testcase>
+	<testcase classname="test_habit_tracker.TestHabitTracker" name="test_view_progress" time="0.003" timestamp="2025-01-05T21:24:03" file="test_habit_tracker.py" line="43">
+		<!--Test viewing the progress of a habit.-->
+	</testcase>
+	<testcase classname="test_habit_tracker.TestHabitTracker" name="test_view_progress_nonexistent_habit" time="0.001" timestamp="2025-01-05T21:24:03" file="test_habit_tracker.py" line="50">
+		<!--Test viewing progress of a nonexistent habit.-->
+	</testcase>
+</testsuite>

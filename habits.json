@@ -1,0 +1,22 @@
+{
+    "play football": {
+        "description": "",
+        "frequency": "weekly",
+        "completion_count": 0
+    },
+    "learn english": {
+        "description": "",
+        "frequency": "daily",
+        "completion_count": 0
+    },
+    "eat ": {
+        "description": "",
+        "frequency": "daily",
+        "completion_count": 0
+    },
+    "eat": {
+        "description": "",
+        "frequency": "daily",
+        "completion_count": 1
+    }
+}
